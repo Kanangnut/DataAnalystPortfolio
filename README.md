@@ -1,4 +1,6 @@
 # Portfolio Project
-## Presented are my projects in SQL, Python, R, Power BI, Tableau & Excel: <br>
+## Presented are my projects in SQL, DAX, Python, R, Power BI, Tableau & Excel: <br>
 Feel free to explore my portfolio website: https://kanangnut.github.io <br>
-You can also explore my LinkedIn profile: https://www.linkedin.com/in/kanangnut <br>
+You can also explore my LinkedIn profile: https://www.linkedin.com/in/kanangnut <br><br>
+
+<b>SQL & Tableau</b>
