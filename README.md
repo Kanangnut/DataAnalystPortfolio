@@ -3,5 +3,5 @@
 Feel free to explore my portfolio website: https://kanangnut.github.io <br>
 You can also explore my LinkedIn profile: https://www.linkedin.com/in/kanangnut <br><br>
 
-![output-onlinepngtools](https://github.com/Kanangnut/DataAnalystPortfolio/blob/main/icon/11057112_watermelon_slot_machine_food_and_icon.png)<b>SQL & Tableau</b>
+![output-onlinepngtools](https://github.com/Kanangnut/DataAnalystPortfolio/blob/main/icon/11057095_gift_box_present_package_love_icon%20(1).png) <b>SQL & Tableau</b>
 
