@@ -5,7 +5,7 @@
 
 ![output-onlinepngtools](https://github.com/Kanangnut/DataAnalystPortfolio/blob/main/icon/11057119_cocktail_drink_food_beverage_glass_icon%20(1).png) <b>DAX & Tableau</b><br>
   Sale Superstore Data Analysis Project<br>
-  <i>See on Tableau Public:<br>
+  <i>See the <b>Dashboard</b> on Tableau Public: [GitHub Pages](https://pages.github.com/). <br>
   DAX Script:<br></i>
 <br>
 ![output-onlinepngtools](https://github.com/Kanangnut/DataAnalystPortfolio/blob/main/photo/SalesuperDarkmode.JPG) <br>
