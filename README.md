@@ -7,4 +7,6 @@ You can also explore my LinkedIn profile: https://www.linkedin.com/in/kanangnut 
   Sale Superstore Data Analysis Project<br>
   See on Tableau Public:<br>
   DAX Script:<br>
+![output-onlinepngtools](https://github.com/Kanangnut/DataAnalystPortfolio/blob/main/photo/SalesuperDarkmode.JPG) <br>
+![output-onlinepngtools](https://github.com/Kanangnut/DataAnalystPortfolio/blob/main/photo/SalesuperLightmode.JPG) <br>
 
