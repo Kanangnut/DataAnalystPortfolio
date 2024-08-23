@@ -1,4 +1,4 @@
-## My Data Analysis Portfolio Projects
+## My Data Analysis Portfolio Projects 📊💭
 
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
