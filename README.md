@@ -4,7 +4,7 @@
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Music-Store-Database-Analysis | Database Setup, SQL, Excel Queries, DAX | PostgreSQL, pgAdmin4, SQLite, DB Browser for SQLite, Power BI | https://github.com/Kanangnut/Music-Store-Database-Analysis |
 | 2 | Top-th-youtubers-2024-Analysis | GCP-YouTube API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | https://github.com/Kanangnut/top-th-youtubers-2024 |
-| 3 | Python-Sentiment-Analysis-with-NLTK-Transformers-Pipeline | Python, Pandas, Matplotlib, Seaborn, VADER, Roberta | https://github.com/Kanangnut/Python-Sentiment-Analysis-with-NLTK-Transformers-Pipeline |
+| 3 | Python-Sentiment-Analysis-with-NLTK-Transformers-Pipeline | Python, Pandas, Matplotlib, Seaborn, VADER, Roberta | Vistual Studio Code | https://github.com/Kanangnut/Python-Sentiment-Analysis-with-NLTK-Transformers-Pipeline |
 | 4 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | https://github.com/Kanangnut/Machine-Learning-project-forecasting-Olympic-medal-counts |
 | 5 | Machine-Learning-project-forecasting-Olympic-medal-counts | Data Model, Linear Regression, Mean Squared Error (MSE), Python Libraries (pandas, seaborn, numpy, scikit-learn) | Vistual Studio Code | https://github.com/Kanangnut/Machine-Learning-project-forecasting-Olympic-medal-counts |
 | 6 | Airline-Satisfaction-Analysis | SQL | SQL server management studio, Microsoft SQL server, Power BI | https://github.com/Kanangnut/Airline-Satisfaction-Analysis-SQL |
