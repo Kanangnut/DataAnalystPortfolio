@@ -13,7 +13,7 @@
 | 9 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
 | 10 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
 | 11 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
-| 12 | Fraud Detection System Using Machine Learning | Python, Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML) |
+| 12 | Fraud Detection System Using Machine Learning | Python, Supervised learning, LogisticRegression Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML) |
 | 13 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
 | 14 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
 | 15 | Fred-Data-Analysis-Project-with-API-Python | Python, Pandas, Matplotlib, FRED API | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Fred-Data-Analysis-Project-with-API-Python) |
