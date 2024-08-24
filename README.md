@@ -26,9 +26,9 @@
 | 1 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/kanangnut.github.io) |
 | 2 | Top-th-youtubers-2024-Analysis | GCP-YouTube API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
 | 3 | Music-Store-Database-Analysis | Database Setup, SQL, Excel Queries, DAX | PostgreSQL, pgAdmin4, SQLite, DB Browser for SQLite, Power BI | [Find out more](https://github.com/Kanangnut/Music-Store-Database-Analysis) |
-| 4 | Weather App | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Weather-App) |
+| 4 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
 | 5 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
-| 6 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
+| 6 | Weather App | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Weather-App) |
 | 7 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
 | 8 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
 
