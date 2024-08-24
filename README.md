@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/baf3c1e8-4ad0-43b9-ba13-624c032e46fd)## My Data Analysis Portfolio Projects 
+## My Data Analysis Portfolio Projects 
 
 
 ### 🧠 Machine Leaning and Prediction 
