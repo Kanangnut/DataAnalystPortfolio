@@ -26,7 +26,6 @@
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/kanangnut.github.io) |
-
 | 2 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
 | 3 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
 | 4 | Weather App | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Weather-App) |
