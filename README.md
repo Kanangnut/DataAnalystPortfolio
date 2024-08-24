@@ -30,7 +30,7 @@
 | 1 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/kanangnut.github.io) |
 | 2 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
 | 3 | Weather App | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Weather-App) |
-| 4 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
+| 4 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines | Python, Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
 
 
 ### 🤖 AI (Artificial Intelligence) 
