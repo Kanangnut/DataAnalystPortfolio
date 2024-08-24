@@ -1,5 +1,6 @@
 ## My Data Analysis Portfolio Projects 
 
+
 ### Machine Leaning and Prediction 🧠
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
@@ -9,6 +10,7 @@
 | 4 | Stock-Market-Predictions-ML-Statistical-Analysis | Supervised learning, RSI, Bollinger Bands, Aroon Oscillator, PVT, Stochastic Oscillator, CMF, VWAP, ATR  and VMI | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Market-Predictions-ML-LSTM-Statistical-Analysis) |
 | 5 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
 
+
 ### Business intelligence & Data Vizualization 📊💭
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
@@ -16,6 +18,7 @@
 | 2 | SuperStore-Sale-Analysis | Excel, query | Power BI | [Find out more](https://github.com/Kanangnut/SuperStore-Sale-Analysis) |
 | 3 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
 | 4 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
+
 
 ### Coding Skill 💻
 | No. | Projects Name | Technical solution | Tools | Link |
@@ -28,6 +31,7 @@
 | 6 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
 | 7 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
 | 8 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
+
 
 ### AI (Artificial Intelligence) 🤖
 | No. | Projects Name | Technical solution | Tools | Link |
