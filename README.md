@@ -22,7 +22,9 @@
 | 18 | Fred-Data-Analysis-Project-with-API-Python | Python, Pandas, Matplotlib, FRED API | Vistual Studio Code | https://github.com/Kanangnut/Fred-Data-Analysis-Project-with-API-Python |
 | 19 | Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent | Python, Pandas, Matplotlib, NumPy | Vistual Studio Code | https://github.com/Kanangnut/Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent |
 | 20 | Stock-in-Nasdaq100-after-Rebalance-Predicting | Python, NumPy, Pandas, pandas_datareader, yfinance, Matplotlib, Seaborn | Vistual Studio Code | https://github.com/Kanangnut/Stock-in-Nasdaq100-after-Rebalance-Predicting |
-
+| 21 | Stock-Market-Predictions-ML-LSTM-Statistical-Analysis | RSI, Bollinger Bands, Aroon Oscillator, PVT, Stochastic Oscillator, CMF, VWAP, ATR  and VMI | Vistual Studio Code | https://github.com/Kanangnut/Stock-Market-Predictions-ML-LSTM-Statistical-Analysis |
+| 22 | Credit-Card-Transactions-Fraud-Detection | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn, lightgbm, BorutaPy, category_encoders, pandas-profiling, Machine Learning Models: KNN, Random Forest, Gradient Boosting, LightGBM, Logistic Regression | Vistual Studio Code | https://github.com/Kanangnut/Credit-Card-Transactions-Fraud-Detection/tree/main |
+| 23 | Fraud Detection System Using Machine Learning | Python, Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML |
 
 
 
