@@ -11,7 +11,7 @@
 | 5 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
 
 
-### 📊💭Business intelligence & Data Visualizations
+### 📊💭 Business intelligence & Data Visualizations
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Top-th-youtubers-2024-Analysis | GCP-YouTube API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
