@@ -7,7 +7,7 @@
 | 3 | Python-Sentiment-Analysis-with-NLTK-Transformers-Pipeline | Python, Pandas, Matplotlib, Seaborn, VADER, Roberta | Vistual Studio Code | https://github.com/Kanangnut/Python-Sentiment-Analysis-with-NLTK-Transformers-Pipeline |
 | 4 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | https://github.com/Kanangnut/Machine-Learning-project-forecasting-Olympic-medal-counts |
 | 5 | Machine-Learning-project-forecasting-Olympic-medal-counts | Data Model, Linear Regression, Mean Squared Error (MSE), Python Libraries (pandas, seaborn, numpy, scikit-learn) | Vistual Studio Code | https://github.com/Kanangnut/Machine-Learning-project-forecasting-Olympic-medal-counts |
-| 6 | Airline-Satisfaction-Analysis | SQL | SQL server management studio, Microsoft SQL server, Power BI | https://github.com/Kanangnut/Airline-Satisfaction-Analysis-SQL |
+| 6 | Credit-Card-Transactions-Fraud-Detection | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn, lightgbm, BorutaPy, category_encoders, pandas-profiling, Machine Learning Models: KNN, Random Forest, Gradient Boosting, LightGBM, Logistic Regression | Vistual Studio Code | https://github.com/Kanangnut/Credit-Card-Transactions-Fraud-Detection/tree/main |
 | 7 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX |
 | 8 | Natural-Language-Processing-NLP-Transformer | Python, TensorFlow, TensorFlow Datasets (TFDS), NumPy | Vistual Studio Code | https://github.com/Kanangnut/Natural-Language-Processing-NLP-Transformer |
 | 9 | Stock-Predict-With-LSTM-Next-90Days | Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days |
@@ -23,7 +23,7 @@
 | 19 | Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent | Python, Pandas, Matplotlib, NumPy | Vistual Studio Code | https://github.com/Kanangnut/Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent |
 | 20 | Stock-in-Nasdaq100-after-Rebalance-Predicting | Python, NumPy, Pandas, pandas_datareader, yfinance, Matplotlib, Seaborn | Vistual Studio Code | https://github.com/Kanangnut/Stock-in-Nasdaq100-after-Rebalance-Predicting |
 | 21 | Stock-Market-Predictions-ML-LSTM-Statistical-Analysis | RSI, Bollinger Bands, Aroon Oscillator, PVT, Stochastic Oscillator, CMF, VWAP, ATR  and VMI | Vistual Studio Code | https://github.com/Kanangnut/Stock-Market-Predictions-ML-LSTM-Statistical-Analysis |
-| 22 | Credit-Card-Transactions-Fraud-Detection | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn, lightgbm, BorutaPy, category_encoders, pandas-profiling, Machine Learning Models: KNN, Random Forest, Gradient Boosting, LightGBM, Logistic Regression | Vistual Studio Code | https://github.com/Kanangnut/Credit-Card-Transactions-Fraud-Detection/tree/main |
+| 22 | Airline-Satisfaction-Analysis | SQL | SQL server management studio, Microsoft SQL server, Power BI | https://github.com/Kanangnut/Airline-Satisfaction-Analysis-SQL |
 | 23 | Fraud Detection System Using Machine Learning | Python, Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML |
 
 
