@@ -1,4 +1,4 @@
-## My Data Analysis Portfolio Projects 
+![image](https://github.com/user-attachments/assets/baf3c1e8-4ad0-43b9-ba13-624c032e46fd)## My Data Analysis Portfolio Projects 
 
 
 ### 🧠 Machine Leaning and Prediction 
@@ -11,7 +11,7 @@
 | 5 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
 
 
-### 📊💭Business intelligence & Data Vizualization 
+### 📊💭Business intelligence & Data Visualizations
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Top-th-youtubers-2024-Analysis | GCP-YouTube API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
