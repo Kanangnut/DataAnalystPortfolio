@@ -1,6 +1,6 @@
 ## My Data Analysis Portfolio Projects 
 
-### Machine Leaning and Prediction 💭
+### Machine Leaning and Prediction 🧠
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Fraud Detection System Using Machine Learning | Python, Supervised learning, LogisticRegression Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML) |
@@ -9,7 +9,7 @@
 | 4 | Stock-Market-Predictions-ML-Statistical-Analysis | Supervised learning, RSI, Bollinger Bands, Aroon Oscillator, PVT, Stochastic Oscillator, CMF, VWAP, ATR  and VMI | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Market-Predictions-ML-LSTM-Statistical-Analysis) |
 | 5 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
 
-### Business intelligence & Data Vizualization 📊
+### Business intelligence & Data Vizualization 📊💭
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | HR-Analytics-Absenteeism | SQL | SQL server management studio, Microsoft SQL server, Power BI | [Find out more](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL) |
@@ -17,7 +17,7 @@
 | 3 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
 | 4 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
 
-### Coding Skill
+### Coding Skill 💻
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/kanangnut.github.io) |
@@ -29,7 +29,7 @@
 | 7 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
 | 8 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
 
-### AI (Artificial Intelligence) 
+### AI (Artificial Intelligence) 🤖
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Natural-Language-Processing-NLP-Transformer | Python, TensorFlow, TensorFlow Datasets (TFDS), NumPy | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Natural-Language-Processing-NLP-Transformer) |
