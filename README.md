@@ -14,23 +14,24 @@
 ### 📊💭Business intelligence & Data Vizualization 
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
-| 1 | HR-Analytics-Absenteeism | SQL | SQL server management studio, Microsoft SQL server, Power BI | [Find out more](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL) |
-| 2 | SuperStore-Sale-Analysis | Excel, query | Power BI | [Find out more](https://github.com/Kanangnut/SuperStore-Sale-Analysis) |
-| 3 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
-| 4 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
+| 1 | Top-th-youtubers-2024-Analysis | GCP-YouTube API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
+| 2 | HR-Analytics-Absenteeism | SQL | SQL server management studio, Microsoft SQL server, Power BI | [Find out more](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL) |
+| 3 | Music-Store-Database-Analysis | Database Setup, SQL, Excel Queries, DAX | PostgreSQL, pgAdmin4, SQLite, DB Browser for SQLite, Power BI | [Find out more](https://github.com/Kanangnut/Music-Store-Database-Analysis) |
+| 4 | SuperStore-Sale-Analysis | Excel, query | Power BI | [Find out more](https://github.com/Kanangnut/SuperStore-Sale-Analysis) |
+| 5 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
+| 6 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
 
 
 ### 🦉🖥️ Coding Skill 
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
 | 1 | Portfolio website | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/kanangnut.github.io) |
-| 2 | Top-th-youtubers-2024-Analysis | GCP-YouTube API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
-| 3 | Music-Store-Database-Analysis | Database Setup, SQL, Excel Queries, DAX | PostgreSQL, pgAdmin4, SQLite, DB Browser for SQLite, Power BI | [Find out more](https://github.com/Kanangnut/Music-Store-Database-Analysis) |
-| 4 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
-| 5 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
-| 6 | Weather App | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Weather-App) |
-| 7 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
-| 8 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
+
+| 2 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
+| 3 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
+| 4 | Weather App | HTML, CSS, JS | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Weather-App) |
+| 5 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
+| 6 | Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines |Pandas, Scikit-Learn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Comprehensive-Data-Preprocessing-with-Custom-Transformers-and-Pipelines) |
 
 
 ### 🤖 AI (Artificial Intelligence) 
