@@ -17,7 +17,7 @@
 | 13 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
 | 14 | ETL pipeline using Pandas in Python | Python, Pandas | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/ETL-pipeline-using-Pandas-in-Python) |
 | 15 | Fred-Data-Analysis-Project-with-API-Python | Python, Pandas, Matplotlib, FRED API | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Fred-Data-Analysis-Project-with-API-Python) |
-| 16 | Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent | Python, Pandas, Matplotlib, NumPy | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent) |
+| 16 | Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent | Python, Supervised Learning, LSTM, Pandas, Matplotlib, NumPy | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Inflation-vs-Commodity-Prices-Gold-WTI-and-Brent) |
 | 17 | Stock-in-Nasdaq100-after-Rebalance-Predicting | Python, NumPy, Pandas, pandas_datareader, yfinance, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-in-Nasdaq100-after-Rebalance-Predicting) |
 | 18 | SuperStore-Sale-Analysis | Excel, query | Power BI | [Find out more](https://github.com/Kanangnut/SuperStore-Sale-Analysis) |
 | 19 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
