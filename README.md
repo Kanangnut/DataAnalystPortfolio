@@ -4,11 +4,11 @@
 ### 🧠 Machine Leaning and Prediction 
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
-| 1 | Fraud Detection System Using Machine Learning | Python, Supervised learning, LogisticRegression Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML) |
+| 1 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
 | 2 | Machine-Learning-project-forecasting-Olympic-medal-counts | Data Model, Linear Regression, Supervised learning, Mean Squared Error (MSE), Python Libraries (pandas, seaborn, numpy, scikit-learn) | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Machine-Learning-project-forecasting-Olympic-medal-counts) |
 | 3 | Credit-Card-Transactions-Fraud-Detection | Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn, lightgbm, BorutaPy, category_encoders, pandas-profiling, Machine Learning Models: Supervised Learning, KNN, Random Forest, Gradient Boosting, LightGBM, Logistic Regression | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Credit-Card-Transactions-Fraud-Detection/tree/main) |
 | 4 | Stock-Market-Predictions-ML-Statistical-Analysis | Supervised learning, RSI, Bollinger Bands, Aroon Oscillator, PVT, Stochastic Oscillator, CMF, VWAP, ATR  and VMI | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Market-Predictions-ML-LSTM-Statistical-Analysis) |
-| 5 | Stock-Predict-With-LSTM-Next-90Days | Python, Supervised learning, Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, TensorFlow | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Stock-Predict-With-LSTM-Next-90Days) |
+| 5 | Fraud Detection System Using Machine Learning | Python, Supervised learning, LogisticRegression Scikit-learn, XGBoost, TensorFlow, Pandas, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/EDA-Credit-Classification-Using-ML) |
 
 
 ### 📊💭 Business Intelligence & Data Visualizations
