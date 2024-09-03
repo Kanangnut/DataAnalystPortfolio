@@ -14,16 +14,17 @@
 ### 📊💭 Business Intelligence & Data Visualizations
 | No. | Projects Name | Technical solution | Tools | Link |
 | :---:   | :---: | :---: | :---: | :---: |
-| 1 | Top-th-youtubers-2024-Analysis | GCP-YouTube-API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
-| 2 | Paris-Olympic-2024-Dashboard-Analysis | Python, DAX, query | Vistual Studio Code, Power BI, Figma | [Find out more](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis) |
-| 3 | Music-Store-Database-Analysis | Database Setup, SQL, Excel Queries, DAX | PostgreSQL, pgAdmin4, SQLite, DB Browser for SQLite, Power BI | [Find out more](https://github.com/Kanangnut/Music-Store-Database-Analysis) |
-| 4 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
-| 5 | SuperStore-Sale-Analysis | Excel, query | Power BI | [Find out more](https://github.com/Kanangnut/SuperStore-Sale-Analysis) |
-| 6 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
-| 7 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
-| 8 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
-| 9 | HR-Analytics-Absenteeism | SQL | SQL server management studio, Microsoft SQL server, Power BI | [Find out more](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL) |
-| 10 | PowerBI-Visualization | Advance Visualization | Power BI | [Find out more](https://github.com/Kanangnut/PowerBI-Visualization) |
+| 1 | PowerBI-Visualization | Advance Visualization | Power BI | [Find out more](https://github.com/Kanangnut/PowerBI-Visualization) |
+| 2 | Top-th-youtubers-2024-Analysis | GCP-YouTube-API, Python, SQL, Excel, DAX | SQL server management studio, Microsoft SQL server, Vistual Studio Code, Power BI | [Find out more](https://github.com/Kanangnut/top-th-youtubers-2024) |
+| 3 | Paris-Olympic-2024-Dashboard-Analysis | Python, DAX, query | Vistual Studio Code, Power BI, Figma | [Find out more](https://github.com/Kanangnut/Paris-Olympic-2024-Dashboard-Analysis) |
+| 4 | Music-Store-Database-Analysis | Database Setup, SQL, Excel Queries, DAX | PostgreSQL, pgAdmin4, SQLite, DB Browser for SQLite, Power BI | [Find out more](https://github.com/Kanangnut/Music-Store-Database-Analysis) |
+| 5 | Python-Pandas-Data-Science-Task-SalesAnalysis | Python, Pandas, NumPy, Matplotlib | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Python-Pandas-Data-Science-Task-SalesAnalysis) |
+| 6 | SuperStore-Sale-Analysis | Excel, query | Power BI | [Find out more](https://github.com/Kanangnut/SuperStore-Sale-Analysis) |
+| 7 | Sale-Superstore-Data-Analysis | MDX, Excel Queries | Tableau | [Find out more](https://github.com/Kanangnut/Sale-Superstore-Data-Analysis-use-Tableau-and-DAX) |
+| 8 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
+| 9 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
+| 10 | HR-Analytics-Absenteeism | SQL | SQL server management studio, Microsoft SQL server, Power BI | [Find out more](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL) |
+ 
 
 ### 🦉🖥️ Coding Skill 
 | No. | Projects Name | Technical solution | Tools | Link |
