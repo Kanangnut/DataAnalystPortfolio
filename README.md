@@ -23,7 +23,7 @@
 | 7 | Netflix-Userbase-data-analysis-Python | Python, Pandas, NumPy, Matplotlib, Seaborn | Vistual Studio Code | [Find out more](https://github.com/Kanangnut/Netflix-Userbase-data-analysis-Python) |
 | 8 | Data-Analysis-BikeStore | SQL, Excel, query | SQL server management studio, Microsoft SQL server, Tableau | [Find out more](https://github.com/Kanangnut/Data-Analysis-BikeStore-SQL-Excel-Tableau) |
 | 9 | HR-Analytics-Absenteeism | SQL | SQL server management studio, Microsoft SQL server, Power BI | [Find out more](https://github.com/Kanangnut/HR-Analytics-Absenteeism-SQL) |
-
+| 10 | PowerBI-Visualization | Advance Visualization | Power BI | [Find out more](https://github.com/Kanangnut/PowerBI-Visualization) |
 
 ### 🦉🖥️ Coding Skill 
 | No. | Projects Name | Technical solution | Tools | Link |
